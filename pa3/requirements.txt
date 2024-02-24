@@ -1,0 +1,8 @@
+transformers==4.37.2
+datasets==2.17.1
+transformers[sentencepiece]
+evaluate
+rouge_score
+transformers[torch]
+matplotlib==3.8.3
+numpy==1.26.4
